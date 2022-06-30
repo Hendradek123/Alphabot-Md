@@ -1451,16 +1451,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ Hendraa
 ├ ZeeoneOfc
-├ Penyedia Module
 ╰❒ And All Support
     `
 }
@@ -1508,8 +1500,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : 
+Recode : 
 `
 }
 exports.tos = (ownernomer) => {
